@@ -1,4 +1,4 @@
-# My Personal Project
+# My Personal Project for CPSC210
 
 ## Miffy Math🐰!
 The application will present simple arithmetic questions, 
