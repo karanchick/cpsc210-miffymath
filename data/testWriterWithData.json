@@ -1,0 +1,17 @@
+{
+   "scores": [
+      5,
+      1
+   ],
+   "name": "player",
+   "collection": [
+      {
+         "name": "1",
+         "rarity": 5
+      },
+      {
+         "name": "2",
+         "rarity": 2
+      }
+   ]
+}
